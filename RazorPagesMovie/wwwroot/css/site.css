@@ -15,4 +15,7 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: lightblue;
+  border: 5px double blue;
+  height: 100vh;
 }
