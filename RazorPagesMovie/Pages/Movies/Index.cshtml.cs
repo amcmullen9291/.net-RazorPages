@@ -28,3 +28,4 @@ namespace RazorPagesMovie.Pages.Movies
         }
     }
 }
+
